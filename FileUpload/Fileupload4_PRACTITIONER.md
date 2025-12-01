@@ -12,5 +12,4 @@
 * Và tôi đã up thành công file .htaccess.
 * <img width="1137" height="770" alt="image" src="https://github.com/user-attachments/assets/4efc2644-9b0a-4ebb-b424-1aefff352417" />
 * Up file php 1 lần nữa và tôi đã giải được bài này
-* 
 
