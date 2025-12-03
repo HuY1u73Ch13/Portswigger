@@ -12,4 +12,5 @@
 * Quan sát 4 hình ảnh trên ta thấy khi ta tích vào ô duy trì sự đăng nhập ta có thể thấy có sự xuất hiện thêm của trường `stay-logged-in` đây là trường duy trì sự đăng nhập mà không cần đăng nhập lại.
 * <img width="1166" height="455" alt="image" src="https://github.com/user-attachments/assets/220291f8-085f-4438-975e-f3b5b68b492e" />
 * Giải mã code này từ Base64 ta có thể xem được là trường `stay-logged-in` này được mã hóa từ tên tài khoản và mật khẩu như vậy mỗi tài khoản với mỗi mật khẩu sẽ có 1 chuỗi cố định.
-* 
+* <img width="1149" height="355" alt="image" src="https://github.com/user-attachments/assets/3cd46570-25b2-472a-9689-3b8e8bd553c0" />
+
