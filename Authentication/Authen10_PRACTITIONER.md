@@ -6,4 +6,5 @@
 * 1 gói request như sau và tôi nghĩ nó có thể thay đổi tên thành carlos nhưng không được 
 * <img width="1077" height="487" alt="image" src="https://github.com/user-attachments/assets/85a7047c-2c5e-46f2-ae70-c4061ace6d70" />
 * Tiếp tục tôi thấy gói này có 2 trường là `verify` và `mfa-code` tôi thử thay trường `verify` thành carlos và trường `mfa-code` để brute-force vì mã bảo mật này chỉ có 4 số
-* 
+* <img width="980" height="483" alt="image" src="https://github.com/user-attachments/assets/592ca86c-bbea-42a9-85ae-6272da903e5f" />
+* Và thể là có mẫ 2fa và đăng nhập vào được
