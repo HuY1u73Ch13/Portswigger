@@ -13,4 +13,7 @@
 * <img width="1166" height="455" alt="image" src="https://github.com/user-attachments/assets/220291f8-085f-4438-975e-f3b5b68b492e" />
 * Giải mã code này từ Base64 ta có thể xem được là trường `stay-logged-in` này được mã hóa từ tên tài khoản và mật khẩu như vậy mỗi tài khoản với mỗi mật khẩu sẽ có 1 chuỗi cố định.
 * <img width="1149" height="355" alt="image" src="https://github.com/user-attachments/assets/3cd46570-25b2-472a-9689-3b8e8bd553c0" />
-
+* Quan sát chỗ này ta có thể thấy là nó được mã hóa như sau base64(username:md5(password)) -> cái cần phải đoán là base64(carlos:md5(x))
+* <img width="1395" height="1441" alt="image" src="https://github.com/user-attachments/assets/9956b30b-03fe-4ab7-9ef6-c8fcb821e528" />
+* Add payload vào và set processing payload như ảnh và bắt đầu scan ta sẽ được mật khẩu là `7777777`
+* <img width="1024" height="330" alt="image" src="https://github.com/user-attachments/assets/aaa65782-195e-4705-8b36-8590b2e0e62b" />
