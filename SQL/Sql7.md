@@ -7,10 +7,11 @@
 
 - Bảng có 3 cột ta sử dụng **UNION SELECT** để xác định cột nào tương thích với chuỗi
 <img width="1310" height="149" alt="image" src="https://github.com/user-attachments/assets/b01f6ed2-69e0-4c3c-85e5-606e4a766453" />
-
+<img width="1004" height="283" alt="image" src="https://github.com/user-attachments/assets/3e848b33-631e-489e-8aa7-9285c4ee05d3" />
 <img width="1256" height="146" alt="image" src="https://github.com/user-attachments/assets/8f72a6f9-cd58-464a-95be-b9da7f491748" />
 
-- Chỉ có cột 2 là trả về dữ liệu tương thích với chuỗi và thêm 1 dòng là **Make the database retrieve the string: 'Oq6U3t'** :
-<img width="1227" height="154" alt="image" src="https://github.com/user-attachments/assets/8e4799fb-89e2-49de-abe5-f806efd60b66" />
+- Chỉ có cột 2 là trả về dữ liệu tương thích với chuỗi và thêm 1 dòng là **Make the database retrieve the string: 'UtX7BS'** :
+- Nó bảo là `Hãy làm cho cơ sở dữ liệu trả về chuỗi: 'UtX7BS'`
+<img width="1876" height="828" alt="image" src="https://github.com/user-attachments/assets/ce854840-8d63-418e-b5ab-0820829959a0" />
 
-- Ta sử dụng **Oq6U3t** để hoàn thành bài lab
+- Ta sử dụng **UtX7BS** để hoàn thành bài lab
