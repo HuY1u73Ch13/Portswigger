@@ -9,4 +9,4 @@
 * <img width="1074" height="318" alt="image" src="https://github.com/user-attachments/assets/d4f11b50-6e1d-4e6c-9fea-4bcabbb6a81f" />
 * Gửi vài lần thì thấy  `X-Cache: hit` và `Cache-Control: max-age=30` trong vòng 30s nên là tôi đã gửi exploit này vào máy của nạn nhân 
 * <img width="1147" height="171" alt="image" src="https://github.com/user-attachments/assets/c6c478d5-f3e7-46c3-bfc3-9b56d9b7e82c" />
-* Và truy cập lại luôn ních này trong 30s thì tôi đã có API của carlos
+* Và truy cập lại luôn ních này trong 30s thì tôi đã có API của carlos 
