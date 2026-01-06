@@ -1,3 +1,5 @@
+## Business Logic
+
 ### Định nghĩa
 Business Logic Vulnerability xảy ra khi ứng dụng **hoạt động đúng về mặt kỹ thuật nhưng sai về mặt nghiệp vụ**.  
 Lỗ hổng này không nằm ở code injection mà ở **cách hệ thống xử lý quy trình**.
