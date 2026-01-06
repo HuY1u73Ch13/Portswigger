@@ -1,9 +1,3 @@
-# Web Application Vulnerabilities – Definitions & Common Attack Surfaces
-
-Tài liệu này tổng hợp các lỗ hổng web phổ biến, bao gồm **định nghĩa chi tiết** và **những vị trí thường xuất hiện khi pentest**.
-
----
-
 ## API Testing
 
 ### Định nghĩa
