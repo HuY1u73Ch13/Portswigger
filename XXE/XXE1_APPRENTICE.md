@@ -3,7 +3,7 @@
 * <img width="554" height="534" alt="image" src="https://github.com/user-attachments/assets/666802a8-2c7e-449d-a417-272e6f13b272" />
 * Vì thế tôi thử thêm paylaod ở đây.
 * <img width="631" height="703" alt="image" src="https://github.com/user-attachments/assets/9108780c-940b-433d-817a-2db727df74ac" />
-* Đã giải được lab này với payload như ảnh
+* Đã giải được lab này với payload `<!DOCTYPE test [ <!ENTITY xxe SYSTEM "file:/etc/passwd"> ]>`
 * Giải thích về payload này là :
 * `<!DOCTYPE ...>` là bước khai báo biến.
 * Dòng này được gọi là DTD (Document Type Definition). Nó định nghĩa cấu trúc và các thực thể (Entities) mà tài liệu XML sẽ sử dụng.
