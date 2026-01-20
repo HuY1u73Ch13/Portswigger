@@ -11,4 +11,7 @@
   * Hoạt động theo cơ chế thời gian thực (realtime)
   * Kết nối được giữ mở liên tục
   * Server có thể chủ đồn đẩy dữ liệu xuống Client ngay khi có tin nhắn mới mà không cần Client phải yêu cầu.
-* 
+* <img width="570" height="168" alt="image" src="https://github.com/user-attachments/assets/cb5c0daf-5472-429d-a353-ac2c21f78dd8" />
+* Ở đây khi chặ gói ta thấy được đoạn payload trên đã được mã hóa vì thế tôi thử thay đôi payload thành thẳng bên dưới để gửi 
+* <img width="527" height="209" alt="image" src="https://github.com/user-attachments/assets/779b018e-f6ca-42e0-a9cc-2d3d79848143" />
+* Và thế là đã solve được câu này
