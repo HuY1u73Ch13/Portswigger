@@ -25,4 +25,3 @@
 * Đoạn mã `<form action="..." method="POST">` : Đây là lá đơn yêu cầu đổi email. Bạn đã ghi sẵn địa chỉ `tòa soạn` là trang lab của tôi
 * `<input type="hidden" name="email" value="...">` Đây là nội dung ẩn bên trong lá đơn. Bạn bí mật ghi cái email của hacker vào đây và giấu nó đi (hidden) để nạn nhân không nhìn tháy trên màn hình.
 * `document.forms[0].submit();` Đây là phần quan trọng nhất. Nó giống như việc tôi cầm tay nạn nhân và nhấn nút `Gừi` ngay khi họ vừa mở lá thư ra.
-* 
